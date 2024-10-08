@@ -15,7 +15,7 @@
             </a>
         </td>
         <td style="padding: 10px;">
-            <a href="https://huggingface.co/spaces/amariayudha/Predictix">
+            <a href="https://huggingface.co/spaces/danisarahadians/Predictix">
                 <img src="https://img.shields.io/badge/Demo-Hugging%20Face-blue" alt="Hugging Face Demo">
             </a>
         </td>
@@ -74,7 +74,7 @@ This approach provides accurate and timely insights into customer sentiments and
 
 To install Predictix:
 ```bash
-git clone https://github.com/ayudhaamari/predictix.git
+git clone https://github.com/danisarahadians/Predictix-Churn-Sentiment-and-Classification.git
 cd predictix
 pip install -r requirements.txt
 ```
